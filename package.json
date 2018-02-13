@@ -1,7 +1,7 @@
 {
 	"name": "tr-jsonget",
-	"version": "1.0.0",
-	"description": "Arbitrary block length cipher and decipher class.",
+	"version": "1.0.1",
+	"description": "Small promise-based utility function to http/https GET a JSON blob",
 	"main": "jsonget.js",
     "dependencies": {
 	},
