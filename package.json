@@ -1,0 +1,33 @@
+{
+	"name": "tr-jsonget",
+	"version": "1.0.0",
+	"description": "Arbitrary block length cipher and decipher class.",
+	"main": "jsonget.js",
+    "dependencies": {
+	},
+	"scripts": {
+		"test": "node ./test/jsonget-test.js"
+	},
+	"engines": {
+		"node": ">=4.2.0"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/rinne/node-tr-jsonget.git"
+	},
+	"keywords": [
+		"encryption",
+		"cipher",
+		"bitwise"
+	],
+	"author": {
+		"name": "Timo J. Rinne",
+		"email": "tri@iki.fi",
+		"url": "https://github.com/rinne/"
+	},
+	"license": "GPL-2.0",
+	"bugs": {
+		"url": "https://github.com/rinne/node-tr-jsonget/issues"
+	},
+	"homepage": "https://github.com/rinne/node-tr-jsonget#readme"
+}
